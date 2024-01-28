@@ -1,3 +1,4 @@
+//write a java program to calculate the area of rectangle,square & triangle
 import java.util.Scanner;
 
 public class tri {

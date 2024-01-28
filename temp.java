@@ -1,3 +1,4 @@
+//write a java program to convert the temperature from celcius to farenhit and vice versa
 import java.util.Scanner;
 
 public class temp {

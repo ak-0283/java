@@ -1,4 +1,4 @@
-import java.io.*;
+//write a java program to calculate the addition,subtraction,multiplication,divison of two no.
 import java.util.Scanner;
 
 public class sum {

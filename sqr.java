@@ -1,3 +1,4 @@
+//write a program to find the square,cube and square root of a given number
 import java.util.*;
 
 class sqr {
